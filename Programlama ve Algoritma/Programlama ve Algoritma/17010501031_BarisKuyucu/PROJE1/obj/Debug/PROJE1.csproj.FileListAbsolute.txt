@@ -1,0 +1,35 @@
+C:\Users\User\documents\visual studio 2015\Projects\PROJE1\PROJE1\bin\Debug\PROJE1.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\PROJE1\PROJE1\obj\Debug\PROJE1.exe
+C:\Users\User\documents\visual studio 2015\Projects\PROJE1\PROJE1\obj\Debug\PROJE1.pdb
+C:\Users\User\documents\visual studio 2015\Projects\PROJE1\PROJE1\bin\Debug\PROJE1.exe
+C:\Users\User\documents\visual studio 2015\Projects\PROJE1\PROJE1\bin\Debug\PROJE1.pdb
+C:\Users\User\documents\visual studio 2015\Projects\PROJE1\PROJE1\obj\Debug\PROJE1.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\PROJE1\PROJE1\obj\Debug\PROJE1.Form1.resources
+C:\Users\User\documents\visual studio 2015\Projects\PROJE1\PROJE1\obj\Debug\PROJE1.Form2.resources
+C:\Users\User\documents\visual studio 2015\Projects\PROJE1\PROJE1\obj\Debug\PROJE1.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2015\Projects\PROJE1\PROJE1\obj\Debug\PROJE1.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2015\Projects\PROJE1\PROJE1\obj\Debug\PROJE1.Form3.resources
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\bin\Debug\PROJE1.exe.config
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\obj\Debug\PROJE1.exe
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\obj\Debug\PROJE1.pdb
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\bin\Debug\PROJE1.exe
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\bin\Debug\PROJE1.pdb
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\obj\Debug\PROJE1.csprojResolveAssemblyReference.cache
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\obj\Debug\PROJE1.Form1.resources
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\obj\Debug\PROJE1.Form2.resources
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\obj\Debug\PROJE1.Form3.resources
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\obj\Debug\PROJE1.Properties.Resources.resources
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\obj\Debug\PROJE1.csproj.GenerateResource.Cache
+C:\Users\baris\OneDrive\Masaüstü\Programlama ve Algoritma\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\bin\Debug\PROJE1.exe.config
+C:\Users\baris\OneDrive\Masaüstü\Programlama ve Algoritma\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\bin\Debug\PROJE1.exe
+C:\Users\baris\OneDrive\Masaüstü\Programlama ve Algoritma\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\bin\Debug\PROJE1.pdb
+C:\Users\baris\OneDrive\Masaüstü\Programlama ve Algoritma\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\obj\Debug\PROJE1.csproj.AssemblyReference.cache
+C:\Users\baris\OneDrive\Masaüstü\Programlama ve Algoritma\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\obj\Debug\PROJE1.csproj.SuggestedBindingRedirects.cache
+C:\Users\baris\OneDrive\Masaüstü\Programlama ve Algoritma\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\obj\Debug\PROJE1.Form1.resources
+C:\Users\baris\OneDrive\Masaüstü\Programlama ve Algoritma\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\obj\Debug\PROJE1.Form2.resources
+C:\Users\baris\OneDrive\Masaüstü\Programlama ve Algoritma\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\obj\Debug\PROJE1.Form3.resources
+C:\Users\baris\OneDrive\Masaüstü\Programlama ve Algoritma\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\obj\Debug\PROJE1.Properties.Resources.resources
+C:\Users\baris\OneDrive\Masaüstü\Programlama ve Algoritma\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\obj\Debug\PROJE1.csproj.GenerateResource.cache
+C:\Users\baris\OneDrive\Masaüstü\Programlama ve Algoritma\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\obj\Debug\PROJE1.csproj.CoreCompileInputs.cache
+C:\Users\baris\OneDrive\Masaüstü\Programlama ve Algoritma\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\obj\Debug\PROJE1.exe
+C:\Users\baris\OneDrive\Masaüstü\Programlama ve Algoritma\Programlama ve Algoritma\17010501031_BarisKuyucu\PROJE1\obj\Debug\PROJE1.pdb

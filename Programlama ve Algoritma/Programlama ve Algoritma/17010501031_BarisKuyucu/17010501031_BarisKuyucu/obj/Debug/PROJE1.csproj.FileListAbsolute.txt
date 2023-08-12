@@ -1,0 +1,11 @@
+C:\Users\User\documents\visual studio 2015\Projects\PROJE1\PROJE1\bin\Debug\PROJE1.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\PROJE1\PROJE1\obj\Debug\PROJE1.exe
+C:\Users\User\documents\visual studio 2015\Projects\PROJE1\PROJE1\obj\Debug\PROJE1.pdb
+C:\Users\User\documents\visual studio 2015\Projects\PROJE1\PROJE1\bin\Debug\PROJE1.exe
+C:\Users\User\documents\visual studio 2015\Projects\PROJE1\PROJE1\bin\Debug\PROJE1.pdb
+C:\Users\User\documents\visual studio 2015\Projects\PROJE1\PROJE1\obj\Debug\PROJE1.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\PROJE1\PROJE1\obj\Debug\PROJE1.Form1.resources
+C:\Users\User\documents\visual studio 2015\Projects\PROJE1\PROJE1\obj\Debug\PROJE1.Form2.resources
+C:\Users\User\documents\visual studio 2015\Projects\PROJE1\PROJE1\obj\Debug\PROJE1.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2015\Projects\PROJE1\PROJE1\obj\Debug\PROJE1.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2015\Projects\PROJE1\PROJE1\obj\Debug\PROJE1.Form3.resources
